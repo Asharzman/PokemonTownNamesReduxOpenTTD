@@ -1,0 +1,6 @@
+VERSION        :v1
+VERSION_STRING :v1
+TITLE          :Pokemon Region Names v1
+FILENAME       :pokemon-names.grf
+REPO_HASH      :
+NEWGRF_VERSION :1
