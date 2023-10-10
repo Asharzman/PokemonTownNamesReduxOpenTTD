@@ -142,7 +142,6 @@ town_names (full) {
 		text ("White Forest",1),
 		text ("Wyndon",1),
 		text ("Zapapico",1),
-		text ("Side series locations",1),
 		text ("English name",1),
 		text ("Agate Village",1),
 		text ("Gateon Port",1),
@@ -150,8 +149,6 @@ town_names (full) {
 		text ("Pyrite Town",1),
 		text ("The Under",1),
 		text ("White City",1),
-		text ("Spin-off locations",1),
-		text ("English name",1),
 		text ("Aqua Resort",1),
 		text ("Axle Town",1),
 		text ("Baram Town",1),
@@ -183,7 +180,6 @@ town_names (full) {
 		text ("Vientown",1),
 		text ("Westerly Town",1),
 		text ("Wintown",1),
-		text ("English name",1),
 		text ("A.J.'s Gym",1),
 		text ("Acapulco",1),
 		text ("Cameran Palace",1),
@@ -398,7 +394,6 @@ town_names (full) {
 		text ("Summit Ruins",1),
 		text ("Sunyshore Tower",1),
 		text ("Xatu's Forest",1),
-		text ("English name",1),
 		text ("Absentia Natural Park",1),
 		text ("Ambiga Town",1),
 		text ("Antimony Research Lab",1),
@@ -496,8 +491,7 @@ town_names (full) {
 		text ("Gerbera Town",1),
 		text ("Inua Town",1),
 		text ("Mocha Town",1),
-		text ("Sage Town",1),
-		text ("Sento Cherry Town",1)
+		text ("Sage Town",1)
 	}
 }
 
