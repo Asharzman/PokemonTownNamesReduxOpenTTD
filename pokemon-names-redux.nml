@@ -4,7 +4,7 @@
 # 1 "pokemon-names-redux.pnml"
 # 1 "src/main.pnml" 1
 grf {
- grfid : "grm\05";
+ grfid : "rod\01";
  name : string(STR_GRF_NAME);
  desc : string(STR_GRF_DESCRIPTION);
  version : 1;
